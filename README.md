@@ -22,7 +22,7 @@ Conversational-PDF-RAG is a Streamlit application that lets users chat with the 
 
 1. Clone the repository:
  ```
-https://github.com/Saza-dev/LangChain-Ollama-Streamlit-LLaMA-3.1-Chatbot-Demo.git
+https://github.com/Saza-dev/Conversational-PDF-RAG.git
  ```
 2. Install Dependencies:
    Make sure you’re using Python 3.9 or later.
